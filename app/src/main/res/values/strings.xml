@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FLO-TECH®</string>
+    <string name="app_Title">FLO-TECH® O&amp;P Systems, Inc.</string>
+    <string name="action_settings">Settings</string>
+
+    //tab options
+    <string name="product_tab">Product</string>
+    <string name="measurement_tab">Measurement</string>
+    <string name="protocol_tab">Protocol</string>
+    <string name="contact_tab">Contact Us</string>
+
+    //drawer control
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    
+</resources>
